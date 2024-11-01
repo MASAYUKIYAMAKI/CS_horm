@@ -13,11 +13,11 @@ namespace CS_Form
 {
     class TestButton:Button
     {
-        public TestButton(int x, int y,int width,int height)
+        public TestButton(int id,int x, int y,int width,int height)
         {
             Click += Onclick;
 
-             Text = "ボタン";
+             Text = id.ToString();
 
             Location = new Point(x,y);
 
@@ -26,7 +26,7 @@ namespace CS_Form
 
         public void Onclick(object sender, EventArgs s)
         {
-            MessageBox.Show("ピカチュウ");
+            MessageBox.Show(Text);
         }
     }
 }

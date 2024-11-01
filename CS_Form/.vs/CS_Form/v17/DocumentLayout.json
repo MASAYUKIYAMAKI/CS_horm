@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\cs_form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|solutionrelative:cs_form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|c:\\users\\ma062\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\cs_form\\cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|solutionrelative:cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|solutionrelative:cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\cs_form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|solutionrelative:cs_form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\cs_form\\test button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|solutionrelative:cs_form\\test button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|c:\\users\\ma062\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\cs_form\\cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|solutionrelative:cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFEED4D2-19D1-4A1A-8496-E24546117BB0}|CS_Form\\CS_Form.csproj|solutionrelative:cs_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\CS_Form\\Program.cs",
+              "RelativeDocumentMoniker": "CS_Form\\Program.cs",
+              "ToolTip": "C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\CS_Form\\Program.cs",
+              "RelativeToolTip": "CS_Form\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:33:47.469Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\CS_Form\\Form1.cs",
               "RelativeDocumentMoniker": "CS_Form\\Form1.cs",
               "ToolTip": "C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\CS_Form\\Form1.cs",
               "RelativeToolTip": "CS_Form\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T02:52:10.462Z",
               "EditorCaption": ""
@@ -49,14 +63,14 @@
               "RelativeDocumentMoniker": "CS_Form\\test Button.cs",
               "ToolTip": "C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\CS_Form\\test Button.cs",
               "RelativeToolTip": "CS_Form\\test Button.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAADwvxcAAAArAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T02:46:52.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\CS_Form\\Form1.cs",
               "RelativeDocumentMoniker": "CS_Form\\Form1.cs",
@@ -65,19 +79,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T01:59:09.728Z",
               "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\CS_Form\\Program.cs",
-              "RelativeDocumentMoniker": "CS_Form\\Program.cs",
-              "ToolTip": "C:\\Users\\ma062\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u732B\u306E\u30A2\u30A4\u30B3\u30F3\\git2\\CS_Form\\CS_Form\\Program.cs",
-              "RelativeToolTip": "CS_Form\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAswA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T02:33:47.469Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
