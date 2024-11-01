@@ -16,10 +16,19 @@ namespace CS_Form
         {
             InitializeComponent();
 
-            TestButton testButton = new TestButton();
 
-            Controls.Add(testButton);
 
+            for (int i = 0; i < 10; i++)
+            {
+                TestButton testButton = new TestButton(i * 50, 0, 50, 50);
+                Controls.Add(testButton);
+
+            };
+
+            
+
+           
+}
         }
     }
-}
+
