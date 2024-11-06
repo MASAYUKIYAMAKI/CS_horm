@@ -20,10 +20,21 @@ namespace CS_Form
 
             for (int i = 0; i < 10; i++)
             {
-                TestButton testButton = new TestButton(i,(i%15) * 50, 50, 50);
-                Controls.Add(testButton);
+                TestButton testButton2 = new TestButton(i, (i % 15) * 50, (i % 5) * 50, 50, 50);
+                Controls.Add(testButton2);
 
-              
+
+                for (int j = 0; i < 10; i++)
+                {
+                    TestButton testButton = new TestButton(i, (i % 10) * 100, (i %10) *50, 50, 50);
+                    Controls.Add(testButton);
+
+
+                }
+
+                testLabele testLabel = new testLabele("ラベルです。", 10, 300, 100, 500); Controls.Add(testLabel);
+
+
             }
 
             
