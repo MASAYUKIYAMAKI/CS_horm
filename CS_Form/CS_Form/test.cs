@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace CS_Form
 {
-    class testLabele : Label
+  　　internal class testLabel : Label
     {
         
         
-            public testLabele(String str, int x, int y, int width, int height)
+            public testLabel(String str, int x, int y, int width, int height)
             {
 
 
@@ -23,14 +23,19 @@ namespace CS_Form
                 Location = new Point(x, y);
 
                 Size = new Size(width, height);
+
+
+
+
             }
 
-            public void Onclick(object sender, EventArgs s)
-            {
-                MessageBox.Show(Text);
-            }
         
-    }
+
+                 public void TextUpdate(string str)
+                 {
+                 Text = str; 
+                 }
+      }
 
 }
 

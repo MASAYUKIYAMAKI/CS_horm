@@ -11,22 +11,28 @@ using System.Windows.Forms;
 
 namespace CS_Form
 {
-    class TestButton:Button
+    class TestButton : Button
     {
-        public TestButton(int id,int x, int y,int width,int height)
+
+        Form1 _form1;
+
+        public TestButton(Form1 form1, int id, int x, int y, int width, int height)
         {
+            _form1 =  form1;
+
             Click += Onclick;
 
             Text = id.ToString();
 
-            Location = new Point(x,y);
+            Location = new Point(x, y);
 
             Size = new Size(width, height);
         }
 
         public void Onclick(object sender, EventArgs s)
         {
-            MessageBox.Show(Text);
+
+            _form1.LabelTextUpdate(Text);
         }
     }
 }
