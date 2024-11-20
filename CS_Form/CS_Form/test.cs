@@ -31,9 +31,14 @@ namespace CS_Form
 
         
 
-                 public void TextUpdate(string str)
+                 public string TextUpdate(string str)
                  {
-                 Text = str; 
+
+                  string kara = Text;
+
+                 Text = str;
+
+                 return kara;
                  }
       }
 

@@ -17,7 +17,7 @@ namespace CS_Form
     {
         testLabel _testLabel;
 
-        TestTextBox _testBox;
+        TestTextBox _textBox;
 
         public Form1()
         {
@@ -50,16 +50,16 @@ namespace CS_Form
 
             }
 
-            _testLabel = new testLabel("ラベルです。", 10, 300, 100, 500); Controls.Add(_testLabel);
+            _testLabel = new testLabel("ラベルです。", 10, 300, 500, 100); Controls.Add(_testLabel);
 
             int[]ints = new int[1];
 
             Controls.Add(_testLabel);
 
-            _testBox = new TestTextBox("テキストボックスです",101, 400, 500, 100);
+            _textBox = new TestTextBox("テキストボックスです",101, 400, 500, 100);
 
             int[]ints2 = new int[1];
-            Controls.Add(_testBox);
+            Controls.Add(_textBox);
 
 
            
@@ -70,21 +70,19 @@ namespace CS_Form
 
             _testLabel.TextUpdate(str);
 
-            string[] strs = null;
-
-            if (strs == null)
-            {
-
-                strs = new string[0];
-          
-              
-            }
-            else
-            { 
-
-                strs = new string[strs.Length];
-            }
         }
+
+        public string UpdateTextBox(string str)
+        {
+           string s = _textBox.TextUpdate(str);
+
+            return s;
+        }
+
+
+
+
+
 
     }
 

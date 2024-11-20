@@ -41,7 +41,20 @@ namespace CS_Form
         public void Onclick(object sender, EventArgs s)
         {
 
-            _form1.LabelTextUpdate(Text);
+           string t = _form1.UpdateTextBox(Text);
+            Text = t;
         }
+
+
+
+    public void Buttonreplacement(string str)
+        {
+            Text = str;
+        }
+        
+        
+        
+        
+       
     }
 }
