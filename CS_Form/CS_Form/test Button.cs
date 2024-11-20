@@ -14,20 +14,29 @@ namespace CS_Form
     class TestButton : Button
     {
 
+
+
+
         Form1 _form1;
 
-        public TestButton(Form1 form1, int id, int x, int y, int width, int height)
+        public TestButton(Form1 form1,string  id, int x, int y, int width, int height) 
         {
             _form1 =  form1;
 
             Click += Onclick;
 
-            Text = id.ToString();
+            Text = id ;
 
             Location = new Point(x, y);
 
             Size = new Size(width, height);
+           
+        {
+           
+           
         }
+
+    }
 
         public void Onclick(object sender, EventArgs s)
         {

@@ -46,7 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="TestTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <None Include="TestTextBox" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
